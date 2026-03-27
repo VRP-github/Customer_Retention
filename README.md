@@ -182,16 +182,6 @@ Tests are configured via `conftest.py` and located in the `tests/` directory.
 
 ---
 
-## 🛣 Future Roadmap
-
-- [ ] Add SHAP explainability endpoint (`/explain`)
-- [ ] Swap SQLite for PostgreSQL MLflow backend
-- [ ] A/B test tracking for coupon campaign ROI validation
-- [ ] Data drift monitoring with Evidently AI
-- [ ] Performance optimization for batch predictions
-- [ ] Model versioning and rollback capabilities
-
----
 
 ## 📄 License
 
