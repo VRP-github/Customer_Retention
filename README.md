@@ -183,6 +183,3 @@ Tests are configured via `conftest.py` and located in the `tests/` directory.
 ---
 
 
-## 📄 License
-
-MIT © 2024
